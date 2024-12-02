@@ -15,8 +15,9 @@ The dashboard features:
 ---
 
 ## Repository Structure
-- **`/images`**: Contains exported Tableau snapshots for quick reference.
-- **`/workbook`**: Tableau workbook file for further exploration.
+- **`/image`**: Contains exported Tableau snapshots for quick reference.
+- **`/Superstore-Sales-Performance.twb`**: Tableau workbook file for further exploration.
+- **`/details-n`**: Show interactions and their details for quick access to key data and contexts.
 
 ---
 
