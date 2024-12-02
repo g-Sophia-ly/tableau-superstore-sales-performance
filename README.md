@@ -6,6 +6,20 @@ This repository hosts insights from a Tableau visualization focusing on sales pe
 
 ---
 
+## Visualization Highlights
+The dashboard features:
+- Regional comparison with trend indicators.
+- Sales breakdowns by category, sub-category, and segment.
+- Interactive visualizations for identifying top manufacturers.
+
+---
+
+## Repository Structure
+- **`/images`**: Contains exported Tableau snapshots for quick reference.
+- **`/workbook`**: Tableau workbook file for further exploration.
+
+---
+
 ## Key Features of the Dashboard
 
 ### 1. **Regional Sales Performance**
@@ -42,39 +56,4 @@ This repository hosts insights from a Tableau visualization focusing on sales pe
      - **Hon**: $150.1K
      - **Global**: $135.7K
      - Additional notable contributors like Canon, GBC, and Fellowes.
-
----
-
-## Visualization Highlights
-The dashboard features:
-- Regional comparison with trend indicators.
-- Sales breakdowns by category, sub-category, and segment.
-- Interactive visualizations for identifying top manufacturers.
-
----
-
-## Repository Structure
-- **`/images`**: Contains exported Tableau snapshots for quick reference.
-- **`/data`**: Includes the original dataset used for the analysis.
-- **`/workbook`**: Tableau workbook file for further exploration.
-
----
-
-## Getting Started
-
-### Prerequisites
-To view or edit the Tableau dashboard:
-- Download [Tableau Desktop](https://www.tableau.com/products/desktop).
-
-### Instructions
-1. Clone this repository.
-2. Open the `.twbx` file using Tableau Desktop.
-3. Explore or customize the dashboard to fit your needs.
-
----
-
-## Conclusion
-This dashboard provides a comprehensive view of sales performance across multiple dimensions, offering actionable insights to optimize strategies and identify growth opportunities. 
-
-Feel free to fork this repository and contribute improvements!
 
