@@ -59,4 +59,6 @@ The dashboard features:
      - Additional notable contributors like Canon, GBC, and Fellowes.
      - 
 ## Imagine
-![Dashboard Overview](image/dashboard.png)
+![Visualization Example](image.png)
+
+
