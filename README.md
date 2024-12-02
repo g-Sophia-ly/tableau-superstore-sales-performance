@@ -57,4 +57,6 @@ The dashboard features:
      - **Hon**: $150.1K
      - **Global**: $135.7K
      - Additional notable contributors like Canon, GBC, and Fellowes.
-
+     - 
+## Imagine
+![Dashboard Overview](image/dashboard.png)
